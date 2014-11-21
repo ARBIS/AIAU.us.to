@@ -7,3 +7,5 @@
 [Contact](contact.md)
 - - - -
 [Blog](http://blog.aiau.us.to)
+- - - -
+[gimmick:themechooser](Choose theme) [gimmick:theme](flatly)
