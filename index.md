@@ -1,5 +1,7 @@
 # Welcome to AIAU
 
+Note: Our new website is currently under construction. Please pardon any missing pages for the moment.
+
 We are a small group of passionate developers and programmers. We are working on a range of products from Games to Artificial Intelligence.
 
 ## Projects in Development
