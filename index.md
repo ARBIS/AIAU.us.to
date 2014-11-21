@@ -1,6 +1,6 @@
 # Welcome to AIAU
 
-Note: Our new website is currently under construction. Please pardon any missing pages for the moment. [Visit our old website](http://old.aiau.ga)
+Note: Our new website is currently under construction. Please pardon any missing pages for the moment. [Visit our old website](http://old.aiau.ga/).
 
 We are a small group of passionate developers and programmers. We are working on a range of products from Games to Artificial Intelligence.
 
