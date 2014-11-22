@@ -2,6 +2,8 @@
 
 ## A.R.B.I.S. Development
 
+Hint: If you're not sure who to email, email A.R.B.I.S. Development, as it doubles as our support team.
+
 Contact our development team for A.R.B.I.S. at [contact@aiau.us.to](mailto:contact@aiau.us.to), we'll try to get back to you as soon as possible!
 
 ## Website Development
@@ -11,6 +13,8 @@ Note: If you have an issue with this website please [file an issue on GitHub her
 Contact the developer for this website at [jonah@aiau.us.to](mailto:jonah@aiau.us.to). 
 
 ## Corporate
+
+Warning: Please contact corporate for business/legal topics only. All support questions sent here will be automatically deleted.
 
 Contact AIAU corporate offices at [corp@aiau.us.to](mailto:corp@aiau.us.to). 
 
