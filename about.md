@@ -39,3 +39,7 @@ We don't see this project being sold for money anytime soon (probably never) so 
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
+
+## About this website
+
+This website design and content are designed by [Jonah Aragon](https://jonaharagon.github.io) and GitHub contributors. This website was made possible by the [MDWiki](http://dynalon.github.io/mdwiki/#!index.md) project by Timo Dörr, and [GitHub Pages](http://github.io) by [GitHub](https://github.com). Contributions to this website are appreciated, just fork [this repository](https://github.com/ARBIS/AIAU.us.to/) on GitHub and make a pull request.
